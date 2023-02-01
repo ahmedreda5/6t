@@ -160,7 +160,7 @@ body{
 
 /* start landing */
 .landing{
-  background-image: url(/images/pexels-pixabay-355770.jpg);
+  background-image: url(../images/pexels-pixabay-355770.jpg);
   background-size: cover;
   height: calc(100vh - 80px);
 }
